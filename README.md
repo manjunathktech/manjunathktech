@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer | Java • Python • DSA ~Postgre sql ~AI  | Building Real-World Projects make this professinal 
+Aspiring Software Developer | Java • springboot ,Python • DSA ~Postgre sql ~AI  | Building Real-World Projects make this professinal 
 
 
 ## 🌐 Socials:
